@@ -8,9 +8,9 @@
   
 	9:45 AM		10:00 AM    Break
   
-	10:00 AM	10:45 AM  	AWS Marketplace Channel Programs
+	10:00 AM	10:45 AM	AWS Marketplace Channel Programs
   
-	10:45 AM	11:00 AM  	ETL on Amazon EMR Workshop Overview
+	10:45 AM	11:00 AM	ETL on Amazon EMR Workshop Overview
 
  
 
@@ -30,7 +30,7 @@ ETL on Amazon EMR Workshop: https://emr-etl.workshop.aws/
   
 	9:50 AM		10:05 AM	Break
   
-	10:05 AM	10:50 AM  	AWS Data Analytics GTM Specialist Program
+	10:05 AM	10:50 AM	AWS Data Analytics GTM Specialist Program
   
 	10:50 AM	11:00 AM	Introduction to Analytics on AWS Workshop Overview
  
