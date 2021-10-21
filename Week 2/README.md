@@ -41,7 +41,7 @@ Introduction to Analytics on AWS Workshop: https://intro-to-analytics-on-aws.wor
 
 
 
-# Optional Additional Self-Paced Training
+# Optional Additional Reading Material
 
 Are you looking for additional deep dives or trainings? These are all optional but will help you dive deeper if needed.
 See the complete list of all topics here: 
