@@ -42,7 +42,7 @@ Amazon Redshift Deep Dive Workshop: https://redshift-deepdive.workshop.aws/
 
 
 
-# Optional Additional Self-Paced Training
+# Optional Additional Reading Material
 
 Are you looking for additional deep dives or trainings? These are all optional but will help you dive deeper if needed.
 See the complete list of all topics here: 
