@@ -1,10 +1,14 @@
 # Data Analytics Exam Guide
-AWS Certified Data Analytics - Specialty (Exam guide & sample questions)  https://aws.amazon.com/certification/certified-data-analytics-specialty/?ep=sec&sec=spec_da
+AWS Certified Data Analytics - Specialty (Exam guide & sample questions)
+  https://aws.amazon.com/certification/certified-data-analytics-specialty/?ep=sec&sec=spec_da
 
 # AWS Whitepapers:	
-Amazon EMR Migration Guide: How to Move Apache Spark and Apache Hadoop From On-Premises to AWS  https://d1.awsstatic.com/whitepapers/amazon_emr_migration_guide.pdf?did=wp_card&trk=wp_card
-Big Data Options on AWS	https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf?did=wp_card&trk=wp_card
-Lambda Architecture for Batch and Stream Processing	https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf?did=wp_card&trk=wp_card
+Amazon EMR Migration Guide: How to Move Apache Spark and Apache Hadoop From On-Premises to AWS
+  https://d1.awsstatic.com/whitepapers/amazon_emr_migration_guide.pdf?did=wp_card&trk=wp_card
+Big Data Options on AWS
+  https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf?did=wp_card&trk=wp_card
+Lambda Architecture for Batch and Stream Processing
+  https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf?did=wp_card&trk=wp_card
 Streaming Data Solutions on AWS with Amazon Kinesis	https://d1.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf?did=wp_card&trk=wp_card
 Teaching Big Data Skills with Amazon EMR	https://d1.awsstatic.com/whitepapers/teaching-big-data-skills-amazon-emr.pdf?did=wp_card&trk=wp_card
 Reference Architecture: SQL Based Data Processing in Amazon ECS	https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/sql_based_data_processing_amazon_ecs.pdf?did=wp_card&trk=wp_card
