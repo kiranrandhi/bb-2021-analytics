@@ -23,6 +23,9 @@ In turn, Partner can expect:
 - Have access to specialized Ninja talks
 - Have early consideration for AWS Partner Opportunities
 
+# License
+This library is licensed under the MIT-0 License. See the LICENSE file.
+
 # Labs
 
 Note: All Approved Attendees For The Program Will Receive Weekly E-mails With Credits Details For Using Their Own AWS Accounts.
