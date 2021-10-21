@@ -1,4 +1,4 @@
-# Week 2 Agenda
+## Week 2 Agenda
 
 
 # Monday, November 1, 2021 (PST)
