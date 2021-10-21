@@ -24,6 +24,24 @@ AWS Database Migration Service Workshop: https://dms-immersionday.workshop.aws/e
 Real Time Streaming with Amazon Kinesis Workshop: https://real-time-streaming-with-kinesis.workshop.aws/
 
 
+# Wednesday, October 27, 2021
+ 08:00 AM	9:00 AM	 Domain 2: Storage and Data Management	BB AWS Data Analytics Specialty Exam 2021	Les Chan
+ 
+	09:00 AM	9:45 AM	 AWS Lake Formation (Data Lake)	AWS Lake Formation (Data Lake)	Neha Gupta
+ 
+	09:45 AM	10:00 AM	Break
+ 
+	10:00 AM	10:15 AM	APN Partner Maturity Model Analytics	APN Partner Maturity Model Analytics	Kiran Randhi
+ 
+	10:15 AM	10:30 AM	AWS Lake Formation Workshop Overview	AWS Lake Formation Workshop	Kiran Randhi
+ 
+	10:30 AM	11:00 AM	AWS PMSA Packaged Offer Workshop	AWS PMSA Packaged Offer Workshop	William Lorenz
+ 
+# Self Guided Workshops
+
+AWS Lake Formation Workshop: https://lakeformation.workshop.aws/
+
+
 
 # Optional Additional Self-Paced Training
 
