@@ -1,4 +1,4 @@
-## Week 2 Agenda
+## Week 3 Agenda
 
 
 # Monday, November 8, 2021 (PST)
