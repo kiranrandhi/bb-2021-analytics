@@ -1,3 +1,7 @@
+# List of Additional Reading Material
+These are a curated set of additional reading material links. Not an exhaustive list as new whitepapers, blog posts and training links are constantly being published but will help you quickly point to deeper dives. 
+
+
 # Data Analytics Exam Guide
 AWS Certified Data Analytics - Specialty (Exam guide & sample questions)
 https://aws.amazon.com/certification/certified-data-analytics-specialty/?ep=sec&sec=spec_da
