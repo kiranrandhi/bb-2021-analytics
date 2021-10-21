@@ -13,6 +13,7 @@ Monday, October 25, 2021	(PST)
 # Self Guided Workshops
 
 AWS Database Migration Service Workshop: https://dms-immersionday.workshop.aws/en/
+
 Real Time Streaming with Amazon Kinesis Workshop: https://real-time-streaming-with-kinesis.workshop.aws/
 
 # Optional Additional Self-Paced Training
