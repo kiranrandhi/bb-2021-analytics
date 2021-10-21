@@ -48,3 +48,4 @@ AWS Lake Formation Workshop: https://lakeformation.workshop.aws/
 Are you looking for additional deep dives or trainings? These are all optional but will help you dive deeper if needed.
 See the complete list of all topics here: 
 
+https://github.com/kiranrandhi/bb-2021-analytics/blob/main/additional-study-material-and-trainings.md
