@@ -24,7 +24,7 @@ AWS Database Migration Service Workshop: https://dms-immersionday.workshop.aws/e
 Real Time Streaming with Amazon Kinesis Workshop: https://real-time-streaming-with-kinesis.workshop.aws/
 
 
-# Wednesday, October 27, 2021
+# Wednesday, October 27, 2021	(PST)
 	08:00 AM	9:00 AM		Domain 2: Storage and Data Management
  
 	09:00 AM	9:45 AM		AWS Lake Formation (Data Lake)
