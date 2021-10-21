@@ -4,7 +4,7 @@
  # Monday, October 25, 2021	(PST)
 	08:00 AM	8:30 AM		Agenda, Plan, & Outcomes	Course Content and AWS Accounts handover	Kiran Randhi
  
-        08:30 AM	9:30 AM		Domain 1: Collection	BB AWS Data Analytics Specialty Exam 2021	Venkat Gomatham
+	08:30 AM	9:30 AM		Domain 1: Collection	BB AWS Data Analytics Specialty Exam 2021	Venkat Gomatham
  
  	09:30 AM	9:45 AM		Break
  
