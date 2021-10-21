@@ -20,6 +20,7 @@ ETL on Amazon EMR Workshop: https://emr-etl.workshop.aws/
 
 
 
+
 # Wednesday, November 3, 2021	(PST)
 
 	8:00 AM		8:50 AM		Domain 4: Analysis and Visualization
