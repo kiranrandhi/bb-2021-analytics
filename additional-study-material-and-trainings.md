@@ -20,7 +20,8 @@ Teaching Big Data Skills with Amazon EMR
 	
 Reference Architecture: SQL Based Data Processing in Amazon ECS
 	https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/sql_based_data_processing_amazon_ecs.pdf?did=wp_card&trk=wp_card
-	
+
+
 
 # AWS FAQs:	
 Amazon Athena	https://aws.amazon.com/athena/faqs/?ep=sec&sec=spec_da
