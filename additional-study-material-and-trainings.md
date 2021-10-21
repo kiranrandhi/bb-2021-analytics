@@ -25,26 +25,45 @@ Reference Architecture: SQL Based Data Processing in Amazon ECS
 
 # AWS FAQs:	
 Amazon Athena	https://aws.amazon.com/athena/faqs/?ep=sec&sec=spec_da
+
 Amazon EMR	https://aws.amazon.com/emr/faqs/?ep=sec&sec=spec_da
+
 Amazon Redshift	https://aws.amazon.com/redshift/faqs/?ep=sec&sec=spec_da
+
 Amazon CloudSearch	https://aws.amazon.com/cloudsearch/faqs/?ep=sec&sec=spec_da
+
 Amazon Kinesis Video Streams	https://aws.amazon.com/kinesis/video-streams/faqs/?ep=sec&sec=spec_da
+
 Amazon Kinesis Data Streams	https://aws.amazon.com/kinesis/data-streams/faqs/?ep=sec&sec=spec_da
+
 Amazon Kinesis Data Firehose	https://aws.amazon.com/kinesis/data-firehose/faqs/?ep=sec&sec=spec_da
+
 Amazon Kinesis Data Analytics	https://aws.amazon.com/kinesis/data-analytics/faqs/?ep=sec&sec=spec_da
+
 Amazon ElasticSearch Service	https://aws.amazon.com/elasticsearch-service/faqs/?ep=sec&sec=spec_da
+
 Amazon Managed Service for Kafka (MSK)	https://aws.amazon.com/msk/faqs/?ep=sec&sec=spec_da
+
 Amazon Redshift	https://aws.amazon.com/redshift/faqs/?ep=sec&sec=spec_da
+
 Amazon QuickSight	https://aws.amazon.com/quicksight/resources/faqs/?ep=sec&sec=spec_da
+
 AWS Data Exchange	https://aws.amazon.com/data-exchange/faqs/?ep=sec&sec=spec_da
+
 AWS Glue	https://aws.amazon.com/glue/faqs/?ep=sec&sec=spec_da
+
 AWS Lake Formation	https://aws.amazon.com/lake-formation/faqs/?ep=sec&sec=spec_da
+
 AWS Data Pipeline	https://aws.amazon.com/datapipeline/faqs/?ep=sec&sec=spec_da
+
 
 # Domain 1: Objective 1.1	
 Data Ingestion Methods	https://docs.aws.amazon.com/whitepapers/latest/building-data-lakes/data-ingestion-methods.html
+
 Big Data Analytics Options	https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf?did=wp_card&trk=wp_card
+
 Build a Log Analytics Solution	https://aws.amazon.com/getting-started/hands-on/build-log-analytics-solution/
+
 How to Get Data into Amazon EMR	https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-get-data-in.html
 Amazon Redshift - Loading Data	https://docs.aws.amazon.com/redshift/latest/dg/t_Loading_data.html
 Global Data Ingestion with Amazon CloudFront and Lambda@Edge	https://aws.amazon.com/blogs/networking-and-content-delivery/global-data-ingestion-with-amazon-cloudfront-and-lambdaedge/
