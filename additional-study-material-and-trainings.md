@@ -8,10 +8,13 @@ Amazon EMR Migration Guide: How to Move Apache Spark and Apache Hadoop From On-P
 Big Data Options on AWS
 	https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf?did=wp_card&trk=wp_card
 Lambda Architecture for Batch and Stream Processing
-  https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf?did=wp_card&trk=wp_card
-Streaming Data Solutions on AWS with Amazon Kinesis	https://d1.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf?did=wp_card&trk=wp_card
-Teaching Big Data Skills with Amazon EMR	https://d1.awsstatic.com/whitepapers/teaching-big-data-skills-amazon-emr.pdf?did=wp_card&trk=wp_card
-Reference Architecture: SQL Based Data Processing in Amazon ECS	https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/sql_based_data_processing_amazon_ecs.pdf?did=wp_card&trk=wp_card
+	https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf?did=wp_card&trk=wp_card
+Streaming Data Solutions on AWS with Amazon Kinesis
+	https://d1.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf?did=wp_card&trk=wp_card
+Teaching Big Data Skills with Amazon EMR
+	https://d1.awsstatic.com/whitepapers/teaching-big-data-skills-amazon-emr.pdf?did=wp_card&trk=wp_card
+Reference Architecture: SQL Based Data Processing in Amazon ECS
+	https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/sql_based_data_processing_amazon_ecs.pdf?did=wp_card&trk=wp_card
 
 # AWS FAQs:	
 Amazon Athena	https://aws.amazon.com/athena/faqs/?ep=sec&sec=spec_da
