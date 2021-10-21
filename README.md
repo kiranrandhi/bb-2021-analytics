@@ -23,3 +23,9 @@ In turn, Partner can expect:
 - Have access to specialized Ninja talks
 - Have early consideration for AWS Partner Opportunities
 
+# Labs
+
+Note: All Approved Attendees For The Program Will Receive Weekly E-mails With Credits Details For Using Their Own AWS Accounts.
+If you have not recieved an E-mail by Monday Morning, Please Let the BlackBelt Program Team Know.
+
+Please click on the Week folder above for Lab Details.
