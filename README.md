@@ -23,3 +23,4 @@ In turn, Partner can expect:
 - Have access to specialized Ninja talks
 - Have early consideration for AWS Partner Opportunities
 
+
