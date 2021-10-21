@@ -43,9 +43,9 @@ AWS Lake Formation Workshop: https://lakeformation.workshop.aws/
 
 
 
-# Optional Additional Self-Paced Training
+# Optional Additional Reading Material
 
-Are you looking for additional deep dives or trainings? These are all optional but will help you dive deeper if needed.
+Are you looking for additional reading material or resources? These are all optional but will help you dive deeper if needed.
 See the complete list of all topics here: 
 
 https://github.com/kiranrandhi/bb-2021-analytics/blob/main/additional-study-material-and-trainings.md
