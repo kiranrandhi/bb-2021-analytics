@@ -2,19 +2,19 @@
 
   Data Analytics Fundamentals
   
-  https://urldefense.com/v3/__https:/www.aws.training/Details/eLearning?id=35364__;!!AKgNyAfk550h-spHnEo!PbYN0KljmBBRoDwpPM_TXblmaGhMM77QPJytxsoYVAduY6BPaVfZJMje0_HrmEBn$
+  https://urldefense.com/v3/__https:/www.aws.training/Details/eLearning?id=35364__
   
   AWS Hadoop Fundamentals	
   
-  https://urldefense.com/v3/__https:/www.aws.training/Details/eLearning?id=40337__;!!AKgNyAfk550h-spHnEo!PbYN0KljmBBRoDwpPM_TXblmaGhMM77QPJytxsoYVAduY6BPaVfZJMje036Ipp22$
+  https://urldefense.com/v3/__https:/www.aws.training/Details/eLearning?id=40337__
   
   Visualizing with QuickSight
   
-  https://urldefense.com/v3/__https:/www.aws.training/Details/Curriculum?id=35944__;!!AKgNyAfk550h-spHnEo!PbYN0KljmBBRoDwpPM_TXblmaGhMM77QPJytxsoYVAduY6BPaVfZJMje07zD-U8T$
+  https://urldefense.com/v3/__https:/www.aws.training/Details/Curriculum?id=35944__
 	
   Introduction to Amazon Kinesis Data Analytics for Java Applications
   
-  https://urldefense.com/v3/__https:/www.aws.training/Details/Video?id=27167__;!!AKgNyAfk550h-spHnEo!PbYN0KljmBBRoDwpPM_TXblmaGhMM77QPJytxsoYVAduY6BPaVfZJMje03wuaT7I$
+  https://urldefense.com/v3/__https:/www.aws.training/Details/Video?id=27167__
 	
   Best Practices for Data Warehousing with Amazon Redshift
   
