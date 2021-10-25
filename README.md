@@ -26,6 +26,14 @@ In turn, Partner can expect:
 # License
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+# Fundamentals (Pre-Requisites For BlackBelt Data & Analytics Track)
+
+For the list of self-placed resources, see here:
+
+
+
+
+
 # Labs
 
 Note: All Approved Attendees For The Program Will Receive Weekly E-mails With Credits Details For Using Their Own AWS Accounts.
