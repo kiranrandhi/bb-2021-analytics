@@ -23,15 +23,11 @@ In turn, Partner can expect:
 - Have access to specialized Ninja talks
 - Have early consideration for AWS Partner Opportunities
 
-# License
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
 # Fundamentals (Pre-Requisites For BlackBelt Data & Analytics Track)
 
 For the list of self-placed resources, see here:
 
-
-
+https://github.com/kiranrandhi/bb-2021-analytics/blob/main/pre-requisites.md
 
 
 # Labs
@@ -40,3 +36,7 @@ Note: All Approved Attendees For The Program Will Receive Weekly E-mails With Cr
 If you have not recieved an E-mail by Monday Morning, Please Let the BlackBelt Program Team Know.
 
 Please click on the Week folder above for Lab Details.
+
+# License
+This library is licensed under the MIT-0 License. See the LICENSE file.
+
