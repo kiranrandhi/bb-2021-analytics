@@ -1,6 +1,6 @@
-# Capstone Project Rubric:
+# Capstone Project:
 
-The Capstone Project is a way to showcase all the learnings from the track. 
+The Capstone Project is a way to showcase all the learnings from the Data & Analytics track in a working example.
 You are expected to pick one of the use cases below.
 For an actual implementation, research something that might be usable in your current organization or customer.
 Think how it might be used to enhance or develop Analytics within your organization.
@@ -16,7 +16,7 @@ Think how it might be used to enhance or develop Analytics within your organizat
 [Streaming Ingest and Stream Processing](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/use-case-streaming-ingest-stream-processing.md)
 
 
-# Evaluation
+# Evaluation Criteria
 
 Your Capstone project will be evaluated by a Specialist SA Panel and the Blackbelt Program team using the criteria in this rubric.
 The rubric is NOT an exhaustive list of Do's and Dont's.
