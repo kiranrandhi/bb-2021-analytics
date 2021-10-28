@@ -36,3 +36,18 @@ As always, any questions? Reach out to the Black belt team.
 See the rubric file uploaded or use this link:
 
 https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/BB%202021%20Data%20%26%20Analytics%20CapStone%20Rubric.png
+
+# Due Date
+
+Your Capstone Project time limit is 2 months from the end of the Data & Analytics Track (Nov 10, 2021). So roughly speaking Jan 10, 2022.
+
+# Submission Details
+
+We will discuss the submission process on Nov 10, 2021 during a live session.
+
+# So What Makes a Great Capstone Project?
+
+1. Think Well-Architected
+2. Think About The Capstone Rubric Pillars
+3. Try to Use a Real Need (For a PoC, Pilot etc)
+4. Think Long Term, How To Take This to Build or Advance your Analytics Practice
