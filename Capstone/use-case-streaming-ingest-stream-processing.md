@@ -46,6 +46,7 @@ AWS Samples: https://github.com/aws-samples
 AWS Workshops: https://workshops.aws/
 
 AWS QuickStarts: https://aws.amazon.com/quickstart
+
 AWS QuickStarts Repos: https://github.com/orgs/aws-quickstart/repositories
 
 AWS CF Templates: https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/solutions
