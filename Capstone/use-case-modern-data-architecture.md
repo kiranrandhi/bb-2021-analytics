@@ -1,4 +1,4 @@
-# Modern Data Architecture
+# Modern Data Architecture (formerly Lake House)
 
 Organizations have been building data lakes to analyze massive amounts of data for deeper insights into their data.
 To do this, they bring data from multiple silos into their data lake, and then run analytics and AI/ML directly on it. It is
