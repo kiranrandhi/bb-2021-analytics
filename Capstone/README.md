@@ -7,7 +7,7 @@ Think how it might be used to enhance or develop Analytics within your organizat
 
 # Use Cases
 
-Modern Data Architecture (Formerly Lake house)
+[Modern Data Architecture (Formerly Lake house)](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/use-case-modern-data-architecture.md)
 
 Data Mesh
 
