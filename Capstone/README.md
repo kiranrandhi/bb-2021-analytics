@@ -7,13 +7,13 @@ Think how it might be used to enhance or develop Analytics within your organizat
 
 # Use Cases
 
-[Modern Data Architecture (Formerly Lake house)](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/use-case-modern-data-architecture.md)
+[Modern Data Architecture (formerly Lake house)](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/use-case-modern-data-architecture.md)
 
-Data Mesh
+[Data Mesh](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/use-case-data-mesh.md)
 
-Batch Processing
+[Batch Processing](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/use-case-batch-processing.md)
 
-Streaming Ingest and Stream Processing
+[Streaming Ingest and Stream Processing](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/use-case-streaming-ingest-stream-processing.md)
 
 
 # Evaluation
