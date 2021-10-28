@@ -33,9 +33,8 @@ However, like any enterprise, you might have one process and a valid reason to u
 Use your best judgement and logic to make sure you are aiming for "Raising The Bar" for every pillar.
 As always, any questions? Reach out to the Black belt team.
 
-See the rubric file uploaded or use this link:
+See the [Capstone rubric](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/BB%202021%20Data%20%26%20Analytics%20CapStone%20Rubric.png) for details.
 
-https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/BB%202021%20Data%20%26%20Analytics%20CapStone%20Rubric.png
 
 # Due Date
 
