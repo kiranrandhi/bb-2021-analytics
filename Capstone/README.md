@@ -5,6 +5,17 @@ You are expected to pick one of the use cases below.
 For an actual implementation, research something that might be usable in your current organization or customer.
 Think how it might be used to enhance or develop Analytics within your organization.
 
+# Use Cases
+
+Modern Data Architecture (Formerly Lake house)
+
+Data Mesh
+
+Batch Processing
+
+Streaming Ingest and Stream Processing
+
+
 # Evaluation
 
 Your Capstone project will be evaluated by a Specialist SA Panel and the Blackbelt Program team using the criteria in this rubric.
