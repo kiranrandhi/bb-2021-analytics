@@ -19,6 +19,13 @@ personas, such as data engineer, data analyst, and data scientists. While there 
 between these services, knowing the core competencies and when to use which service or services enable you to
 accomplish your objectives in the most effective way.
 
+# Additional Details
+
+Refer to the Well-Architected Analytics Lens v2 Whitepaper for an In-depth explanation on this scenario with Characteristics, Notes and Ref Architecture etc.
+This Paper was recently published (Oct 29, 2021):
+
+[Well Architected Analytics Lens Version 2](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/scenarios.html)
+
 # Workshops to Help You Get Started 
 
 https://analytics-101-workshop.by.awsome.builders/01-introduction/02-labs-overview/
