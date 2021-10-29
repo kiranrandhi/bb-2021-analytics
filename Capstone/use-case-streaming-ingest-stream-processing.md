@@ -32,6 +32,13 @@ lakes, and various third-party integrations.
 With these five components in mind, next let’s consider the characteristics as you design your stream processing
 pipeline for real-time ingestion and nearly continuous stream processing.
 
+# Additional Details
+
+Refer to the Well-Architected Analytics Lens v2 Whitepaper for an In-depth explanation on this scenario with Characteristics, Notes and Ref Architecture etc.
+This Paper was recently published (Oct 29, 2021):
+
+[Well Architected Analytics Lens Version 2](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/scenarios.html)
+
 # Workshops to Help You Get Started 
 
 https://github.com/aws-samples/streaming-analytics-workshop
