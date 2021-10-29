@@ -36,6 +36,13 @@ the demands of the business. Each service we build relies on other services that
 we have been talking about the data-driven organization model for years. This model is similar to those used by some
 of our customers and has been described by Zhamak Dehghani of Thoughtworks, who coined the term data mesh.
 
+# Additional Details
+
+Refer to the Well-Architected Analytics Lens v2 Whitepaper for an In-depth explanation on this scenario with Characteristics, Notes and Ref Architecture etc.
+This Paper was recently published (Oct 29, 2021):
+
+[Well Architected Analytics Lens Version 2](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/scenarios.html)
+
 # Blog Post to Help You Get Started 
 
 https://aws.amazon.com/blogs/big-data/design-a-data-mesh-architecture-using-aws-lake-formation-and-aws-glue/
