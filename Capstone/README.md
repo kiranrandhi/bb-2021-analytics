@@ -5,7 +5,7 @@ You are expected to pick one of the use cases below.
 For an actual implementation, research something that might be usable in your current organization or customer.
 Think how it might be used to enhance or develop Analytics within your organization.
 
-# Use Cases
+# Scenarios
 
 [Modern Data Architecture (formerly Lake house)](https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/use-case-modern-data-architecture.md)
 
