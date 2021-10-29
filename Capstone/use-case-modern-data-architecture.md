@@ -15,6 +15,7 @@ and other purpose-built data stores while enabling unified governance and seamle
 
 Refer to the Well-Architected Analytics Lens v2 Whitepaper for an In-depth explanation, Characteristics, Notes and Ref Architecture etc.
 This Paper was recently published (Oct 29, 2021):
+
 [Well Architected Analytics Lens Version 2](https://docs.aws.amazon.com/wellarchitected/latest/analytics-lens/scenarios.html)
 
 # Workshops to Help You Get Started 
