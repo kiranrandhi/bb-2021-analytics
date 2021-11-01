@@ -18,7 +18,8 @@
 # Self Guided Workshops
 
 Amazon Redshift Deep Dive Workshop: https://redshift-deepdive.workshop.aws/
-
+- Workshop Region: us-east-1
+- Lab 1A: Use the Redshift Query Editor
 
 
 
