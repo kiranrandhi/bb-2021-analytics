@@ -17,7 +17,11 @@
 # Self Guided Workshops
 
 ETL on Amazon EMR Workshop: https://emr-etl.workshop.aws/
-
+- Workshop Region: Any
+- Required Modules: 1, 2, 3, 7, 8, 9
+- Optional Modules: 4, 5, 6
+- Module 3C: If blocked by browser self-signed certificate Chrome for private certificate issue, just skip 3C as there is no depenency downstream.
+- Module 8, need to dowload the Pig and Hive files from 5 & 6, if 5 & 6 were skipped.
 
 
 
@@ -38,6 +42,12 @@ ETL on Amazon EMR Workshop: https://emr-etl.workshop.aws/
 # Self Guided Workshops
 
 Introduction to Analytics on AWS Workshop: https://intro-to-analytics-on-aws.workshop.aws/en/lab-guide.html
+- Workshop Region: us-east-1
+- Required Modules: 1, 2, 3, 4, 5, 7, 8, 10
+- Optional Modules: 6, 9
+- Module 1: Kinesis Firehose steps not match new UI but still work.
+- Module 4: New UI. Choose "Visual with a source and target" and then "Create job from a blank graph" button. Skip AWS Marketplace option not supported in AWS EE.
+- Module 6-9: Covered in deeper details in other workshops
 
 
 
