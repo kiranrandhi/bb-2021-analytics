@@ -25,11 +25,11 @@ Each Pillar corresponds to the Domain in the Analytics Specialty certification e
 
 Each Pillar is either evaluated as Below The Bar, Meets the Bar or Raise the Bar. 
 
-Below the Bar = Not Meeting Best Practices
+Below the Bar = Not Meeting Best Practices for this Category
 
 Meets the Bar = Bare Minimum Best Practices for this Category
 
-Raise the Bar = Applying All Best Practices for this Category
+Raise the Bar = Applying All Best Practices and Recommendations for this Category
 
 
 Points are awarded based on how each pillar was addressed in your Capstone Project.
